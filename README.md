@@ -1,2 +1,7 @@
 # awesome
-hehe
+
+
+
+## DOTNET
+
+- https://github.com/dodyg/practical-aspnetcore 
