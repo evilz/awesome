@@ -1,7 +1,8 @@
-# awesome
+![awesome](logo.svg "awesome")
 
 
 
 ## DOTNET
 
-- https://github.com/dodyg/practical-aspnetcore 
+- [practical-aspnetcore ](https://github.com/dodyg/practical-aspnetcore ) - Practical samples of ASP.NET .
+
