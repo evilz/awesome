@@ -10,3 +10,4 @@
 ## HTML / CSS
 
 - [simplecodegallery?](https://github.com/simplecodegallery?tab=repositories) - video on https://www.tiktok.com/@simplecodegallery?_t=8b8cv6mpHO9&_r=1
+- https://getwaves.io/
